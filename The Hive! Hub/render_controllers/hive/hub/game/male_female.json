@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.hive.hub.game.male.female":{"geometry":"query.is_tamed ? Geometry.male : Geometry.female","materials":[{"*":"Material.default"}],"textures":["query.is_tamed ? Texture.male : Texture.female"]}}}

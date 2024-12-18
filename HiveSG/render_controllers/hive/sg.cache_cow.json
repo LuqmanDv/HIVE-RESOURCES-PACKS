@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.hive.sg.cache_cow":{"arrays":{"textures":{"array.colors":["Texture.blue","Texture.gold","Texture.green","Texture.red"]}},"geometry":"Geometry.default","materials":[{"*":"Material.default"}],"textures":["array.colors[query.variant]"]}}}

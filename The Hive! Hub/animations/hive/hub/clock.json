@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.hive.hub.clock":{"loop":true,"bones":{"hand1":{"rotation":[0,0,"math.mod(variable.adjusted_time * 12 * 360, 360)"]},"hand2":{"rotation":[0,0,"variable.adjusted_time * 360"]}}}}}

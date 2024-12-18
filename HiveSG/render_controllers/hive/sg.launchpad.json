@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.hive.sg.launchpad":{"arrays":{"textures":{"array.types":["Texture.medieval","Texture.futuristic"]}},"geometry":"Geometry.default","materials":[{"*":"Material.default"}],"textures":["array.types[query.variant]"]}}}

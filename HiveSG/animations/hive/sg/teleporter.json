@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.hive.sg.teleporter.spin":{"loop":true,"bones":{"emitters":{"rotation":[0,"variable.teleporterRotation",0]}}}}}

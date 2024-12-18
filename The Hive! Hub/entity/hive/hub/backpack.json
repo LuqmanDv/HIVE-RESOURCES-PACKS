@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"hivehub:backpack","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/hub/backpack"},"geometry":{"default":"geometry.hive.hub.backpack"},"render_controllers":["controller.render.default"]}}}

@@ -1,0 +1,22 @@
+action.hint.exit.hivemounts:bumblebee=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+action.hint.exit.hivemounts:spaceship=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+action.hint.exit.hivemounts:cruiser=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+action.hint.exit.hivemounts:pirate_ship=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+action.hint.exit.hivemounts:broomstick=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+action.hint.exit.hivemounts:hoverbike=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+action.hint.exit.hivemounts:helicopter=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+action.hint.exit.hivemounts:ghast=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+action.hint.exit.hivemounts:dragon=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+
+action.hint.exit.scheme.hivemounts:bumblebee=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+action.hint.exit.scheme.hivemounts:spaceship=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+action.hint.exit.scheme.hivemounts:cruiser=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+action.hint.exit.scheme.hivemounts:pirate_ship=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+action.hint.exit.scheme.hivemounts:broomstick=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+action.hint.exit.scheme.hivemounts:hoverbike=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+action.hint.exit.scheme.hivemounts:helicopter=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+action.hint.exit.scheme.hivemounts:ghast=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+action.hint.exit.scheme.hivemounts:dragon=§7Press §f:_input_key.sneak: §7or §f:_input_key.jump: §7to exit.
+
+action.hint.exit.hivemounts:wooden_chair=§bAhh... how relaxing!
+action.hint.exit.scheme.hivemounts:wooden_chair=§bAhh... how relaxing!

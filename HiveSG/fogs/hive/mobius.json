@@ -1,0 +1,1 @@
+{"format_version":"1.16.100","minecraft:fog_settings":{"description":{"identifier":"hive:mobius"},"distance":{"air":{"fog_start":64.0,"fog_end":112.0,"fog_color":"#f000ff","render_distance_type":"fixed"}}}}

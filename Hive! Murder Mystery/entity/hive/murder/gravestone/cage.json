@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivemurder:gravestone_cage","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/murder/gravestone/cage"},"geometry":{"default":"geometry.hive.murder.gravestone.cage"},"render_controllers":["controller.render.default"]}}}

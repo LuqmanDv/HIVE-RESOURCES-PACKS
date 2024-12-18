@@ -1,0 +1,14 @@
+{
+    "materials": {
+        "version": "1.0.0",
+        "hiveparty_studio_light:entity": {
+            "+defines": ["ENABLE_FOG"],
+            "+states": ["Blending", "DisableCulling", "DisableDepthWrite"],
+            "blendSrc": "SourceAlpha",
+            "blendDst": "OneMinusSrcAlpha"
+        },
+        "hiveparty_studio_screen:entity_alphatest": {
+            "-defines": ["FANCY"]
+        }
+    }
+}

@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.hive.murder.interactable.remnants.teleporter":{"geometry":"Geometry.default","materials":[{"*":"Material.default"},{"glowInner":"Material.glowInner"}],"textures":["Texture.default"]}}}

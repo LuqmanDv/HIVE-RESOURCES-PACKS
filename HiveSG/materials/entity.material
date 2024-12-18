@@ -1,0 +1,11 @@
+{
+    "materials": {
+        "version": "1.0.0",
+
+        "hive_entity:entity": {},
+        "hive_alpha:entity_alphatest": {},
+        "hive_multi:entity_multitexture": {},
+        "hive_emissive:entity_emissive_alpha": {},
+        "hive_emissive_one_sided:entity_emissive_alpha_one_sided": {}
+    }
+} 

@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivemurder:gravestone_pirates_fate","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/murder/gravestone/pirates_fate"},"geometry":{"default":"geometry.hive.murder.gravestone.pirates.fate"},"render_controllers":["controller.render.default"]}}}

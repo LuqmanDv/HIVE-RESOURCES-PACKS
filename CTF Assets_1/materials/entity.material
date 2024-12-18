@@ -1,0 +1,20 @@
+{
+    "materials": {
+        "version": "1.0.0",
+        "hive_ctf_icon:entity_alphatest": {
+            "+states": ["DisableDepthTest", "DisableDepthWrite", "DisableAlphaWrite"],
+            "-defines": ["FANCY"],
+            "depthFunc": "Always",
+            "depthBias": 99999500
+        },
+        "hive_ctf_icon_back:hive_ctf_icon": {
+            "depthBias": 99999000
+        },
+        "hive_ctf_icon_front:hive_ctf_icon": {
+            "depthBias": 99999999
+        },
+        "hive_ctf_blend_no_culling:slime_outer": {
+            "+states": ["DisableCulling"]
+        }
+    }
+}

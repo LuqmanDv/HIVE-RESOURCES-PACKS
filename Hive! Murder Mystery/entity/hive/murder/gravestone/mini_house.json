@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivemurder:gravestone_mini_house","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/murder/gravestone/mini_house"},"geometry":{"default":"geometry.hive.murder.gravestone.mini.house"},"render_controllers":["controller.render.default"]}}}

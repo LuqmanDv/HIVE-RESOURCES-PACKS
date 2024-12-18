@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.hive.bridge.trapdoor":{"arrays":{"textures":{"array.textures":["Texture.red","Texture.blue"]}},"geometry":"Geometry.default","materials":[{"*":"Material.default"},{"leftWindow":"Material.blend"},{"rightWindow":"Material.blend"}],"textures":["array.textures[query.variant]"]}}}

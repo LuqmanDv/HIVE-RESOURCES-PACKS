@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"hivehub:bedwars_challenge_merchant","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/hub/bedwars/challenge_merchant"},"geometry":{"default":"geometry.hive.hub.bedwars.npc.challenge.merchant"},"render_controllers":["controller.render.default"]}}}

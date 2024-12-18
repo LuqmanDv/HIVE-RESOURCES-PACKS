@@ -1,0 +1,16 @@
+{
+    "materials": {
+        "version": "1.0.0",
+
+        "hive_grav_forcefield:entity": {
+            "+defines": ["USE_UV_ANIM"],
+            "+states": ["Blending"],
+            "+samplerStates": [
+                {
+                    "samplerIndex": 0,
+                    "textureWrap": "Repeat"
+                }
+            ]
+        }
+    }
+}

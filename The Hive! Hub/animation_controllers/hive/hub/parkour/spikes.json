@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.hive.hub.parkour.spikes":{"states":{"default":{"transitions":[{"extend":"query.is_tamed"}]},"extend":{"animations":["extend"],"transitions":[{"default":"query.all_animations_finished"}]}}}}}

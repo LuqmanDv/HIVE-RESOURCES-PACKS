@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivemurder:gravestone_copper_golem","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/murder/gravestone/copper_golem"},"geometry":{"default":"geometry.hive.murder.gravestone.copper.golem"},"render_controllers":["controller.render.default"]}}}

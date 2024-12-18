@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.hive.hub.bedwars.anchor.idle":{"loop":true,"bones":{"chain":{"rotation":[0,"math.cos(query.anim_time * 3) * 5","math.cos(query.anim_time * 50) * 1.5"]},"anchor":{"rotation":[0,0,"((math.cos((query.anim_time + 4.8) * 50) * 1.25))"]},"rope":{"rotation":[0,0,"((math.cos((query.anim_time + 4.4) * 50) * 1.5))"]}}}}}

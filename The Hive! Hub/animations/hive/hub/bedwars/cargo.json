@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.hive.hub.bedwars.cargo.idle":{"loop":true,"bones":{"group":{"rotation":["math.cos(query.anim_time * 45) * 1.5","math.cos(query.anim_time * 5) * 14","math.cos(query.anim_time * 37) * 1"]}}}}}

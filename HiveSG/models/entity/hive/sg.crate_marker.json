@@ -1,0 +1,1 @@
+{"minecraft:geometry":[{"description":{"identifier":"geometry.hive.sg.crate_marker","texture_width":64,"texture_height":64,"visible_bounds_width":3,"visible_bounds_height":1,"visible_bounds_offset":[0,0.5,0]},"bones":[{"name":"root","pivot":[0,0,0],"cubes":[{"origin":[-14,0.25,-14],"size":[28,0,28],"uv":[0,0]}],"locators":{"center":[0,0,0]}}]}],"format_version":"1.12.0"}

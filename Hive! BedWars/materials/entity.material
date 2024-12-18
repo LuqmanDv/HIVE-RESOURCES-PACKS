@@ -1,0 +1,11 @@
+{
+    "materials": {
+        "version": "1.0.0",
+        "bed_entity_tintable:entity_alphatest": {
+            "+defines": ["MULTI_COLOR_TINT"]
+        },
+        "hive_bed_icon:entity_alphatest": {
+            "-defines": ["FANCY"]
+        }
+    }
+}

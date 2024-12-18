@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivemurder:gravestone_heart","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/murder/gravestone/heart"},"geometry":{"default":"geometry.hive.murder.gravestone.heart"},"render_controllers":["controller.render.default"]}}}

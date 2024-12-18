@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.hive.murder.prop.museum.globe.idle":{"loop":true,"bones":{"earth":{"rotation":[0,"-math.mod(query.anim_time * 3, 360)",0],"scale":1.15}}}}}

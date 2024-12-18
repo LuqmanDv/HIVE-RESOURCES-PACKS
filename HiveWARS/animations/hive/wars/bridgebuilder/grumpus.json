@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.hive.wars.bridge.builder.grumpus.move":{"anim_time_update":"query.modified_distance_moved","loop":true,"bones":{"leftArm":{"rotation":["variable.tcos0",0.0,0.0]},"leftLeg":{"rotation":["variable.tcos0 * -1.4",0.0,0.0]},"rightArm":{"rotation":["-variable.tcos0",0.0,0.0]},"rightLeg":{"rotation":["variable.tcos0 * 1.4",0.0,0.0]}}}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.hive.bed.turret.look":{"loop":true,"bones":{"turret_swivel":{"rotation":[0,"variable.turret_swivel",0]},"turret_tilt":{"rotation":["variable.turret_tilt",0,0]}}}}}

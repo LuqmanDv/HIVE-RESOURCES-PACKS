@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.hive.hats.hide.first.person.emissive":{"geometry":"Geometry.default","materials":[{"*":"Material.default"}],"textures":["Texture.default"],"part_visibility":[{"*":"!variable.is_first_person \u0026\u0026 !query.is_invisible"}],"light_color_multiplier":0.85,"ignore_lighting":true}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.hive.party.studio.light.beam":{"geometry":"Geometry.beam","materials":[{"*":"Material.beam"}],"textures":["Texture.beam"],"light_color_multiplier":0.9,"ignore_lighting":true,"overlay_color":{"r":"variable.light_r_current","g":"variable.light_g_current","b":"variable.light_b_current","a":"1.0"}}}}

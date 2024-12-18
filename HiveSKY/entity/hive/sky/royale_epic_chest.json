@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivesky:royale_epic_chest","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/sky/epic_chest"},"geometry":{"default":"geometry.hive.sky.epic.chest.default"},"render_controllers":["controller.render.default"]}}}

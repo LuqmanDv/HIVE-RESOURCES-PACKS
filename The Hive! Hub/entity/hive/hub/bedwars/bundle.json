@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"hivehub:bedwars_bundle","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/hub/bedwars/bundle"},"geometry":{"default":"geometry.hive.hub.bedwars.bundle"},"render_controllers":["controller.render.default"]}}}

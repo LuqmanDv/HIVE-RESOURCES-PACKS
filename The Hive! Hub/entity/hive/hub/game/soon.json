@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivehub:game_soon","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/hub/game/soon"},"geometry":{"default":"geometry.hive.hub.game.soon"},"render_controllers":["controller.render.default"]}}}

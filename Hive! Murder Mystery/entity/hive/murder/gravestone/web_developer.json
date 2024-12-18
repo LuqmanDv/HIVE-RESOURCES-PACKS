@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivemurder:gravestone_web_developer","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/murder/gravestone/web_developer"},"geometry":{"default":"geometry.hive.murder.gravestone.web.developer"},"render_controllers":["controller.render.default"]}}}

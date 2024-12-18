@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.hive.mounts.dragon":{"arrays":{"textures":{"array.textures":["Texture.default","Texture.celestial","Texture.cherry_blossom","Texture.ender","Texture.ice","Texture.magma","Texture.radioactive"]}},"geometry":"Geometry.default","materials":[{"*":"Material.default"}],"textures":["array.textures[query.variant]"]}}}

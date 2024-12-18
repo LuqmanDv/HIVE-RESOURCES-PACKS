@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.hive.pets.haunted_teddy":{"arrays":{"textures":{"array.textures":["Texture.blue","Texture.green","Texture.purple","Texture.red"]}},"geometry":"Geometry.default","materials":[{"*":"query.is_tamed ? Material.faded : Material.default"}],"textures":["array.textures[query.variant]"]}}}

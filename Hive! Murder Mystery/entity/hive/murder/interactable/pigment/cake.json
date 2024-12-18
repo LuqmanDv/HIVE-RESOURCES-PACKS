@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivemurder:pigment_cake","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/murder/interactable/pigment/cake"},"geometry":{"default":"geometry.hive.murder.interactable.pigment.cake"},"render_controllers":["controller.render.default"]}}}

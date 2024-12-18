@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.hive.murder.interactable.chroma.teleporter.idle":{"states":{"default":{"animations":["idle"]}}},"controller.animation.hive.murder.interactable.chroma.teleporter.use":{"states":{"default":{"transitions":[{"use":"query.is_tamed"}]},"use":{"animations":["use"],"transitions":[{"default":"!query.is_tamed"}]}}}}}

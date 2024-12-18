@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.hive.sg.helicopter":{"states":{"default":{"animations":["spin"],"particle_effects":[{"effect":"smoke_puff","locator":"blade1"},{"effect":"smoke_puff","locator":"blade2"},{"effect":"smoke_puff","locator":"blade3"},{"effect":"smoke_puff","locator":"blade4"}]}}}}}

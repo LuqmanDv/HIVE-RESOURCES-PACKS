@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivesky:world_border","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/sky/world_border"},"geometry":{"default":"geometry.hive.sky.world.border"},"render_controllers":["controller.render.hive.sky.world.border"]}}}

@@ -1,0 +1,9 @@
+item.hive:play.name=Play
+item.hive:double_speed.name=Double Speed
+item.hive:fast_forward.name=Fast Forward
+item.hive:next_frame.name=Next Frame
+item.hive:pause.name=Pause
+item.hive:previous_frame.name=Previous Frame
+item.hive:rewind.name=Rewind
+item.hive:slow_motion.name=Slow Motion
+item.hive:reverse.name=Reverse

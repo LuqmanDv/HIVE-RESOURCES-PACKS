@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.hive.ctf.spring.ventfan.idle":{"loop":true,"bones":{"fanblade":{"rotation":[0,"math.mod(query.anim_time * 480, 360)",0]}}}}}

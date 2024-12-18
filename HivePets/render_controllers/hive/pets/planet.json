@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.hive.pets.planet.clouds":{"geometry":"Geometry.clouds","materials":[{"*":"Material.clouds"}],"textures":["Texture.faded"],"part_visibility":[{"*":"!query.is_tamed"}],"uv_anim":{"offset":["(Math.floor(query.life_time * 20.0) + query.frame_alpha) * 0.001",0],"scale":[1.0,1.0]}}}}

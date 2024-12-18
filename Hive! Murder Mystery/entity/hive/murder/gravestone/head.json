@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivemurder:gravestone_head","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/murder/gravestone/head"},"geometry":{"default":"geometry.hive.murder.gravestone.head"},"render_controllers":["controller.render.default"]}}}

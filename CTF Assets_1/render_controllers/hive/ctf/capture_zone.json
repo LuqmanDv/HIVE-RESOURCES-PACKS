@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.hive.ctf.capture.zone":{"arrays":{"textures":{"array.textures":["Texture.red","Texture.blue","Texture.white"]}},"geometry":"Geometry.default","materials":[{"*":"Material.default"}],"textures":["array.textures[query.variant]"],"light_color_multiplier":1.0,"ignore_lighting":true}}}

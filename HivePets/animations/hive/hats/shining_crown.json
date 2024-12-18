@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.hive.hats.shining.crown.idle":{"loop":true,"bones":{"haloRoot":{"rotation":[0,"query.anim_time * 20",0],"position":[0,"(math.cos(query.anim_time * 100) * 1) + 1 ",0]}}}}}

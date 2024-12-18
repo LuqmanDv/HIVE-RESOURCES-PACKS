@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivemurder:gravestone_bird_nest","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/murder/gravestone/bird_nest"},"geometry":{"default":"geometry.hive.murder.gravestone.bird.nest"},"render_controllers":["controller.render.default"]}}}

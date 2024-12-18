@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivereplay:props_soda_can","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/replay/props/soda_can"},"geometry":{"default":"geometry.hive.replay.props.soda.can"},"render_controllers":["controller.render.default"]}}}

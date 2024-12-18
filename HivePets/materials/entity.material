@@ -1,0 +1,15 @@
+{
+    "materials": {
+        "version": "1.0.0",
+        "hive_pets_planet:entity_alphatest": {
+            "+defines": ["USE_UV_ANIM"],
+            "+states": ["Blending"],
+            "+samplerStates": [
+                {
+                    "samplerIndex": 0,
+                    "textureWrap": "Repeat"
+                }
+            ]
+        }
+    }
+}

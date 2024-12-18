@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.hive.hub.parkour.hologram":{"geometry":"Geometry.default","materials":[{"*":"Material.default"}],"textures":["Texture.default"],"light_color_multiplier":1.0,"ignore_lighting":true,"overlay_color":{"r":"variable.r","g":"variable.g","b":"variable.b","a":"1.0"}}}}

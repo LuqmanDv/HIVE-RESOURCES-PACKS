@@ -1,0 +1,1 @@
+{"format_version":"1.16.100","minecraft:fog_settings":{"description":{"identifier":"hivegrav:fog"},"distance":{"air":{"fog_start":210,"fog_end":280,"fog_color":"#5ca3e1","render_distance_type":"fixed"}}}}

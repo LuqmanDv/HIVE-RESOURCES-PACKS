@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.hive.hats.bee.hat.idle":{"loop":true,"bones":{"leftWing":{"rotation":[0,"math.cos(query.anim_time * 400) * 10",0]},"rightWing":{"rotation":[0,"-math.cos(query.anim_time * 400) * 10",0]}}}}}

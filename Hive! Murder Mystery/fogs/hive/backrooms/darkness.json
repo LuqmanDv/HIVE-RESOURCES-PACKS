@@ -1,0 +1,1 @@
+{"format_version":"1.16.100","minecraft:fog_settings":{"description":{"identifier":"hivemurder:backrooms_darkness"},"distance":{"air":{"fog_start":0.0,"fog_end":20.0,"fog_color":"#000000","render_distance_type":"fixed"}}}}

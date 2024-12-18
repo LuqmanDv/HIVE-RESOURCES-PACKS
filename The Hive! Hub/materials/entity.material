@@ -1,0 +1,24 @@
+{
+    "materials": {
+        "version": "1.0.0",
+        "hive_hologram:entity_alphatest": {
+            "+states": ["Blending"]
+        },
+        "hive_hologram_text:entity_alphatest": {
+            "-defines": ["FANCY"]
+        },
+        "hive_hologram_new:entity_alphatest": {
+            "-defines": ["FANCY"],
+            "+states": ["Blending"]
+        },
+        "hive_entity_alphatest_uv:entity_alphatest": {
+            "+defines": ["USE_UV_ANIM"],
+            "+samplerStates": [
+                {
+                    "samplerIndex": 0,
+                    "textureWrap": "Repeat"
+                }
+            ]
+        }
+    }
+}

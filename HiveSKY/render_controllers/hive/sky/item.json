@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.hive.sky.item":{"part_visibility":[{"*":"!query.is_invisible"}],"geometry":"geometry.default","materials":[{"*":"material.default"}],"textures":["texture.default"]}}}

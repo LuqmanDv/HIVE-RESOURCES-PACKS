@@ -1,0 +1,5 @@
+item.hive:drop_jump_boost.name=Jump Boost
+item.hive:drop_restore_blocks.name=Restore Blocks
+item.hive:drop_safe_walk.name=Safe Walk
+item.hive:drop_speed_boost.name=Speed Boost
+item.hive:drop_vault.name=Vault

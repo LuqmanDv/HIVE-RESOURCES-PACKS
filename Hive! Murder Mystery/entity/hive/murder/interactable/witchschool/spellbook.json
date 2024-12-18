@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","minecraft:client_entity":{"description":{"identifier":"hivemurder:witchschool_spellbook","materials":{"default":"entity_alphatest"},"textures":{"default":"textures/entity/hive/murder/interactable/witchschool/spellbook"},"geometry":{"default":"geometry.hive.murder.interactable.witchschool.spellbook"},"render_controllers":["controller.render.default"]}}}

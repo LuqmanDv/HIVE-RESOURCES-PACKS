@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","animation_controllers":{"controller.animation.hive.ctf.teleporter.idle":{"states":{"default":{"animations":["idle"]}}},"controller.animation.hive.ctf.teleporter.idle.particles":{"states":{"default":{"animations":["idle"],"particle_effects":[{"effect":"idle"}]}}}}}

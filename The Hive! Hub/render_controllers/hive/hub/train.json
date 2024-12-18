@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.hive.hub.train.winter":{"geometry":"Geometry.default","materials":[{"*":"Material.default"}],"textures":["query.is_baby ? Texture.winter : Texture.default"]}}}
